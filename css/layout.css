@@ -1,0 +1,504 @@
+a {
+    float: left;
+}
+
+header {
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    box-sizing: border-box;   
+
+}
+
+.logo {
+    float: left;
+    margin-top: 10px;
+    clear: both;
+    position: relative;
+    padding-left: 100px;
+}
+
+
+.left {
+    width: 300px;
+    height: 100px;
+    float: right;
+    background-color: white;
+    margin-top: 60px;
+    margin-right: 50px;
+    display: block;
+    cursor: default;
+    
+}
+
+footer {
+    background-color: black;
+    clear: both;
+    margin-top: 900px;
+    width: 100%;
+    height: 500px;
+}
+
+.text {
+    width: 480px;
+    height: 160px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 30px;
+    color: black;
+    size: 309px;
+}
+
+.right1 {
+    width: 300px;
+    height: 200px;
+    float: left;
+    margin-left: 50px;
+    clear: both;
+    position: relative;
+    top: 30px;
+}
+
+.title2 {
+    width: 300px;
+    height: 50px;
+    float: right;
+    position: absolute;
+    top: 120PX;
+    right: 1px;
+    margin-right: 50px;
+}
+
+.a {
+    margin-top: 40px;
+    color: white;
+    margin-left: 60px;
+    font-style: unset;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.b {
+    margin-top: 40px;
+    color: white;
+    margin-left: 30px;
+    font-style: unset;
+    font-weight: 600;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.end1 {
+    padding-left: 50px;
+    color: yellow;
+    position: absolute;
+    top: 1120px;
+}
+
+.c {
+    float: right;
+    color: white;
+    position: absolute;
+    right: 0px;
+    top: 25px;
+    font-style: unset;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.end2 {
+    color: yellow;
+    position: absolute;
+    top: 1120px;
+    left: 500px;
+}
+
+.icon {
+    float: left;
+    margin-top: 33px;
+    width: 20px;
+    position: absolute;
+    top: 8px;
+    right: 270px;
+    
+}
+
+.icon2 {
+    float: left;
+    margin-top: 32px;
+    width: 40px;
+    position: absolute;
+    top: 0px;
+    right: 200px;
+}
+
+.icon3 {
+    float: left;
+    width: 60px;
+    position: absolute;
+    top: 35px;
+    right: 130px;
+}
+
+.end3 {
+    position: absolute;
+    color: white;
+    left: 500px;
+    top: 1168px;
+}
+
+.end4 {
+    color: yellow;
+    position: absolute;
+    top: 1120px;
+    left: 800px;
+}
+
+.end5 {
+    color: yellow;
+    position: absolute;
+    top: 1120px;
+    left: 1100px;
+}
+
+.menu>ul {
+    list-style: none;
+}
+
+.icon:active {
+    position: absolute;
+    top: 50px;
+    width: 300px;
+    height: 50px;
+    background-color: red;
+    
+}
+
+.en {
+    color: white;
+    margin-top: 70px;
+    margin-left: 50px;
+    
+}
+
+.nd {
+    color: red;
+    padding-inline-start: 30px;
+    position: absolute;
+    top: 200px;
+    left: 390px;
+    
+}
+.t{
+    width: 15%;
+    margin-right: 300px;
+    margin-top: 8px;
+}
+.ca{
+    width: 85%;
+    margin-top: 1px;
+    float: right;
+    color: lightgray;
+    position: absolute;
+    right: 0px;
+    top: 25px;
+    font-style: unset;
+    font-weight: 600;
+    
+}
+.text {
+    width: 480px;
+    height: 160px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 30px;
+    color: black;
+    size: 309px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+.ngay {
+    color: lightgray;
+    padding-inline-start: 30px;
+    position: absolute;
+    top: 200px;
+    left: 485px;
+    
+}
+.ngay1{
+    color: lightgray;
+    padding-inline-start: 30px;
+    position: absolute;
+    top: 380px;
+    left: 485px;
+    
+}
+.nd1 {
+    color: red;
+    padding-inline-start: 30px;
+    position: absolute;
+    top: 380px;
+    left: 390px;
+    
+}
+.end6 {
+    position: absolute;
+    color: white;
+    left: 800px;
+    top: 1168px;
+}
+.end7 {
+    position: absolute;
+    color: white;
+    left: 1100px;
+    top: 1168px;
+}
+.e{
+    text-align: center;
+    width: 90%;
+    font-size: 1px;
+    color: red;
+
+}
+.v{
+    color: white;
+    position: relative;
+    margin-left: 60px; 
+}
+.f{
+    color: white;
+    position: relative;
+    margin-left: 1055px;
+    bottom: 10px; 
+    
+}
+.img3{
+    position: relative;
+    width: 480px;
+    height: 160px;
+    float: left;
+    left: 50px;
+    top: 30px;
+    color: black;
+    size: 309px;  
+    
+}
+.nd2 {
+    color: red;
+    padding-inline-start: 30px;
+    position: absolute;
+    top: 606px;
+    left: 390px;
+    
+}
+.ngay2{
+    color: lightgray;
+    padding-inline-start: 30px;
+    position: absolute;
+    top: 607px;
+    left: 485px;
+    
+}
+.nd3 {
+    color: red;
+    padding-inline-start: 30px;
+    position: absolute;
+    top: 806px;
+    left: 390px;
+    
+}
+.ngay3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightgray;
+    padding-inline-start: 30px;
+    position: absolute;
+    top: 807px;
+    left: 485px;
+    
+}
+.text>:hover{
+    color:red;
+}
+.text9 {
+    width: 480px;
+    height: 160px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 30px;
+    color: black;
+    size: 309px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+.box{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 700px;
+    line-height: 30px;
+    text-decoration: none solid rgb(225, 255, 255); 
+    background-color: red;
+    background: 0%0%;
+    position: color;
+    height: 32px;
+    width: 30px;
+    border: 1px solid black;
+    margin: 0 5px 10px 0;
+    padding: 0 10px 0 10px;
+    min-width: 30px;
+    display: inline-block;
+    cursor: default;
+    transform: none;
+    transition: all 0.2s ease 0s;
+    outline: rgb(255, 255, 255) dashed 0px;
+    box-sizing: border-box;
+    position: relative;
+    top: 820px;
+    right: 500px;
+}
+.box1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 700px;
+    line-height: 30px;
+    text-decoration: none solid rgb(225, 255, 255);
+    
+   
+    background-color: red;
+    background: 0%0%;
+    position: color;
+    height: 32px;
+    width: 30px;
+    border: 1px solid black;
+    margin: 0 5px 10px 0;
+    padding: 0 10px 0 10px;
+    min-width: 30px;
+    display: inline-block;
+    cursor: default;
+    transform: none;
+    transition: all 0.2s ease 0s;
+    outline: rgb(255, 255, 255) dashed 0px;
+    box-sizing: border-box;
+    position: relative;
+    top: 778px;
+    right: 370px;
+}
+.left>.top{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: 700px;
+    letter-spacing: -0,4px;
+    line-height: 30,8px;
+    text-decoration: rgb(47, 41, 47);
+    word-spacing: 0px;
+    background-color: #ffffff;
+    background: 0%0%;
+    height: auto;
+    width: auto;
+    display: inline;
+    cursor: pointer;
+    transform: none;
+    transition: color 0.2s ease 0s;
+    outline: rgb(225, 0, 0) dashed 0px;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    
+}
+.left>.top1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: px;
+    letter-spacing: -0.28px;
+    line-height: 19,6px;
+    text-decoration: rgb(47, 41, 47);
+    text-align: left;
+    word-spacing: 0px;
+    background-color: #ffffff;
+    background: 0%0%;
+    position: color #29292f;
+    width: 500px;
+    height: 500px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline;
+    cursor: pointer;
+    transform: none;
+    transition: color 0.2s ease 0s;
+    outline: rgb(225, 0, 0) dashed 0px;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    
+}
+.left>.top2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    letter-spacing: -0.28px;
+    line-height: 19,6px;
+    text-decoration: rgb(47, 41, 47);
+    text-align: left;
+    word-spacing: 0px;
+    display: inline;
+    cursor: pointer;
+    transform: none;
+    transition: color 0.2s ease 0s;
+    outline: rgb(225, 0, 0) dashed 0px;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    
+}
+.left>.top3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    letter-spacing: -0.28px;
+    line-height: 19,6px;
+    text-decoration: rgb(47, 41, 47);
+    
+    word-spacing: 0px;
+    display: inline;
+    cursor: pointer;
+    transform: none;
+    transition: color 0.2s ease 0s;
+    outline: rgb(225, 0, 0) dashed 0px;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    
+}
+.left>.ca2{
+    width: 20%;  
+    margin-top: 891px;
+    margin-right: 50px;
+    float: left;
+    color: lightgray;
+    position: absolute;
+    right: 0px;
+    top: 25px;
+    font-style: unset;
+    font-weight: 600;
+    
+}
+.left>.ca3{
+    width: 20%;  
+    margin-top: 973px;
+    margin-right: 50px;
+    float: left;
+    color: lightgray;
+    position: absolute;
+    right: 0px;
+    top: 25px;
+    font-style: unset;
+    font-weight: 600;
+    
+}
+.hack{
+    color: black;
+    text-decoration: none;
+}
+.lik{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
